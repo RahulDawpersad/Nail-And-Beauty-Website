@@ -110,6 +110,9 @@ body {
   .service-list{
     margin-left: 4em;
   }
+   .modal__content .navbar-nav{
+    background: #D2B6E6;
+  }
 }
 
 
